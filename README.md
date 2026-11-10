@@ -1,5 +1,13 @@
 # BiblioAI
 
+<p align="center">
+  <a href="BiblioAI%20Demo.mp4">
+    <img src="images/BiblioAI%20Demo%20thumbnail.png" alt="Watch the BiblioAI demo video" width="720">
+  </a>
+  <br>
+  <sub>▶ <b><a href="BiblioAI%20Demo.mp4">Watch the BiblioAI demo</a></b> (74 s): the quick start on a fresh clone, then the web app and staff console run live with no Gemini key</sub>
+</p>
+
 **An AI-powered campus library — browse the catalogue, search in plain English or by meaning, and get reading recommendations from your borrowing history.**
 
 [![Python](https://img.shields.io/badge/Python-3.13-3776AB?logo=python&logoColor=white)](backend/requirements.txt)
